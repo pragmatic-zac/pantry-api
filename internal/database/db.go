@@ -2,6 +2,7 @@ package database
 
 import (
 	"errors"
+	"github.com/golang-migrate/migrate/v4"
 	"time"
 
 	"github.com/zacjones91/pantry-api/assets"
